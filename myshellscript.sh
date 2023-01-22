@@ -1,3 +1,4 @@
 #!/bin/bash
-echo "gajraj"
-ls -lrt /etc/securetty
+my_name="shell"
+echo"$my_name"
+echo"${my_name}"
